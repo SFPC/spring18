@@ -26,7 +26,7 @@ Teachers: Kelli Anderson, Robby Kraft, Pam Liou (Office Hours: )
 # Hardware 
 [Handmade Computer](___)
 
-Teacher: Taeyoon Choi  (Office hours: Tuesday 1~6pm, Friday 1~3pm) 
+Teacher: Taeyoon Choi  (Office hours: Tuesday 1 - 6pm, Friday 1 - 3pm) 
 
 Guest teacher: Pedro Oliveira
 
