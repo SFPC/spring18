@@ -19,9 +19,9 @@ Guest teacher: Sarah Aoun (Office hours: )
 TA: Ann (Office Hours: )
 
 # Craft 
-[Material Logic](___) 
+[Material Logic](https://github.com/robbykraft/Material-Logic) 
 
-Teachers: Kelli Anderson, Robby Kraft, Pam Liou (Office Hours: )
+Teachers: Kelli Anderson, Robby Kraft, Pam Liou (Office Hours: Wednesday after class, 2-4, and by appointment)
 
 # Hardware 
 [Handmade Computer](___)
