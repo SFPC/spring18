@@ -32,6 +32,14 @@ Guest teacher: Pedro Oliveira
 
 TA: Ed Bear (Office hours:) 
 
+# Professional development
+
+[Artists Toolkit](https://github.com/tchoi8/ArtistsToolkit)
+
+Teacher: Taeyoon Choi
+
+TA: Celine Wong Katzman
+
 # Special events
 
  
